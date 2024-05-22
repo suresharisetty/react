@@ -1,0 +1,1 @@
+export const cal=()=><h1>hi</h1>
